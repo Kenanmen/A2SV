@@ -1,9 +1,9 @@
 class Solution:
-    def fib(self, n: int) -> int:
-        def fibo(num):
-            if num <= 1:
-                return num
-            res = fibo(num-1) + fibo(num-2)
-            return res
-        return fibo(n)
+    def fib(self, num: int) -> int:
+        
+        if num <= 1:
+            return num
+        res = self.fib(num-1) + self.fib(num-2)
+        return res
+     
         
