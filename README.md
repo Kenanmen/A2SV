@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
+| [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kenanmen/A2SV/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
