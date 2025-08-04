@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kenanmen/A2SV/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kenanmen/A2SV/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kenanmen/A2SV/tree/master/0258-add-digits) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kenanmen/A2SV/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Kenanmen/A2SV/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
