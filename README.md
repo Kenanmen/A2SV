@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kenanmen/A2SV/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
 ## Two Pointers
