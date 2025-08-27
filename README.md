@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Kenanmen/A2SV/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kenanmen/A2SV/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Kenanmen/A2SV/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
