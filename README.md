@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kenanmen/A2SV/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
+| [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 ## Depth-First Search
 |  |
 | ------- |
