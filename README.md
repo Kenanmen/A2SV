@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Kenanmen/A2SV/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Kenanmen/A2SV/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Kenanmen/A2SV/tree/master/1013-fibonacci-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kenanmen/A2SV/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kenanmen/A2SV/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Kenanmen/A2SV/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Kenanmen/A2SV/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Kenanmen/A2SV/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kenanmen/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
