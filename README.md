@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kenanmen/A2SV/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Kenanmen/A2SV/tree/master/1013-fibonacci-number) |
+| [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kenanmen/A2SV/tree/master/0258-add-digits) |
+| [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kenanmen/A2SV/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kenanmen/A2SV/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
+| [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
