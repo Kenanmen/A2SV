@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Kenanmen/A2SV/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Kenanmen/A2SV/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
+| [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kenanmen/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Kenanmen/A2SV/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
+| [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kenanmen/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Kenanmen/A2SV/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kenanmen/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 ## Combinatorics
 |  |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kenanmen/A2SV/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Kenanmen/A2SV/tree/master/0909-stone-game) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
