@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
+| [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Kenanmen/A2SV/tree/master/0486-predict-the-winner) |
+| [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 | [0909-stone-game](https://github.com/Kenanmen/A2SV/tree/master/0909-stone-game) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
@@ -179,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kenanmen/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
