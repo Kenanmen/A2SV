@@ -6,7 +6,7 @@ class Solution:
             graph[r].append((l,suc[idx]))
         dicts = defaultdict(lambda : float("-inf"))
 
-        dicts[start] = 1
+        dicts[start] = 0
         heap = [(-1, start)]
         visited = set()
         while heap:
