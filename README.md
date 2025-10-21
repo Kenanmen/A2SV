@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 | [0909-stone-game](https://github.com/Kenanmen/A2SV/tree/master/0909-stone-game) |
+| [1325-path-with-maximum-probability](https://github.com/Kenanmen/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kenanmen/A2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kenanmen/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Kenanmen/A2SV/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kenanmen/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Kenanmen/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kenanmen/A2SV/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kenanmen/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Kenanmen/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 ## Combinatorics
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Kenanmen/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kenanmen/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Kenanmen/A2SV/tree/master/1325-path-with-maximum-probability) |
 ## Linked List
 |  |
 | ------- |
