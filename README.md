@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Kenanmen/A2SV/tree/master/1013-fibonacci-number) |
 | [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kenanmen/A2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Kenanmen/A2SV/tree/master/2288-count-operations-to-obtain-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Kenanmen/A2SV/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kenanmen/A2SV/tree/master/0258-add-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kenanmen/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Kenanmen/A2SV/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |
