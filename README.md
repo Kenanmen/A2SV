@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Kenanmen/A2SV/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Kenanmen/A2SV/tree/master/0474-ones-and-zeroes) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kenanmen/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Kenanmen/A2SV/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Kenanmen/A2SV/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kenanmen/A2SV/tree/master/0486-predict-the-winner) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kenanmen/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Kenanmen/A2SV/tree/master/0909-stone-game) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0463-island-perimeter](https://github.com/Kenanmen/A2SV/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/Kenanmen/A2SV/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kenanmen/A2SV/tree/master/0486-predict-the-winner) |
 | [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
