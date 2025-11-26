@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kenanmen/A2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Kenanmen/A2SV/tree/master/2288-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/Kenanmen/A2SV/tree/master/2469-convert-the-temperature) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kenanmen/A2SV/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Kenanmen/A2SV/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
