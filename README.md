@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kenanmen/A2SV/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kenanmen/A2SV/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Kenanmen/A2SV/tree/master/0816-design-hashset) |
 | [0841-shortest-distance-to-a-character](https://github.com/Kenanmen/A2SV/tree/master/0841-shortest-distance-to-a-character) |
 | [0909-stone-game](https://github.com/Kenanmen/A2SV/tree/master/0909-stone-game) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kenanmen/A2SV/tree/master/0992-subarrays-with-k-different-integers) |
 | [1325-path-with-maximum-probability](https://github.com/Kenanmen/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kenanmen/A2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -215,9 +217,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kenanmen/A2SV/tree/master/0992-subarrays-with-k-different-integers) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Kenanmen/A2SV/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kenanmen/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Kenanmen/A2SV/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
