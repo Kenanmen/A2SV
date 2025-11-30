@@ -1,8 +1,11 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        if num == 0:
-            return 0
-        else:
-            return ((num-1)%(9)+1)
+    
+        while num > 9:
+            String = str(num)
+            total_sum = 0
+            for c in String:
+                total_sum += int(c)
+            num = total_sum
+        return num
 
-        
