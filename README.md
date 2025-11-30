@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kenanmen/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kenanmen/A2SV/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Kenanmen/A2SV/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Kenanmen/A2SV/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Kenanmen/A2SV/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0392-is-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kenanmen/A2SV/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kenanmen/A2SV/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kenanmen/A2SV/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Kenanmen/A2SV/tree/master/0198-house-robber) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kenanmen/A2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Kenanmen/A2SV/tree/master/0219-contains-duplicate-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kenanmen/A2SV/tree/master/0992-subarrays-with-k-different-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kenanmen/A2SV/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
