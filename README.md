@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kenanmen/A2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kenanmen/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Kenanmen/A2SV/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Kenanmen/A2SV/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Depth-First Search
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kenanmen/A2SV/tree/master/0217-contains-duplicate) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Kenanmen/A2SV/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
 |  |
 | ------- |
@@ -179,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kenanmen/A2SV/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Kenanmen/A2SV/tree/master/0300-longest-increasing-subsequence) |
 | [1307-ugly-number-iii](https://github.com/Kenanmen/A2SV/tree/master/1307-ugly-number-iii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Kenanmen/A2SV/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Kenanmen/A2SV/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Kenanmen/A2SV/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Kenanmen/A2SV/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Heap (Priority Queue)
 |  |
